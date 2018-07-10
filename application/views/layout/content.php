@@ -4,7 +4,7 @@
       <div class="container">
         <div class="position-center-center">
         <div class=" animate fadeInUp" data-wow-delay="0.4s">
-        <div class="tp-caption customin font-playfair tp-resizeme rs-parallaxlevel-4" style="color: #fff; font-size: 80px; font-style:italic; text-shadow: 2px 2px #c27c21;"> 
+        <div class="tp-caption customin font-playfair tp-resizeme rs-parallaxlevel-4" style="color: #fff; font-size: 80px; font-style:italic; text-shadow: 2px 2px #249494;"> 
         Raden Rizqan Fadhilah 
         </div>
         <h1>UI/UX Designer & Front-end Web Developer</h1>
@@ -37,7 +37,7 @@
             </div>
           
           <!-- Image -->
-          <div class="col-sm-5  animate fadeInRight" data-wow-delay="0.4s"> <img class="img-responsive" src="assets/images/cobacobi.jpg" alt="" > </div>
+          <div class="col-sm-5  animate fadeInRight" data-wow-delay="0.4s"> <img class="img-responsive" src="assets/images/candil.png" alt="" > </div>
         </div>
       </div>
     </section>
@@ -59,7 +59,7 @@
           
           <!-- Slider 1 -->
           <div class="testi">
-            <div class="avatar"> <img src="assets/images/avatar-9.jpg" alt=""> </div>
+            <div class="avatar"> <img src="assets/images/avafinnet.jpg" alt=""> </div>
 			      <h1>Web Developer Internship </h1>
             <p class="posi">PT. Finnet Indonesia</p>
             <b>
@@ -74,7 +74,7 @@
           
           <!-- Slider 2 -->
           <div class="testi">
-          <div class="avatar"> <img src="assets/images/avatar-9.jpg" alt=""> </div>
+          <div class="avatar"> <img src="assets/images/avatelc.jpg" alt=""> </div>
           <h1>Laboratory assistant </h1>
           <p class="posi">TEL-C Laboratory, Telkom University</p>
           <b>
@@ -89,7 +89,7 @@
           
           <!-- Slider 3 -->
           <div class="testi">
-          <div class="avatar"> <img src="assets/images/avatar-9.jpg" alt=""> </div>
+          <div class="avatar"> <img src="assets/images/avaico.jpg" alt=""> </div>
           <h1>Student Volunteer Committee</h1>
           <p class="posi">ICoICT 2016</p>
           <b>
@@ -98,7 +98,7 @@
 </b> 
         </div>
         <div class="testi">
-          <div class="avatar"> <img src="assets/images/avatar-9.jpg" alt=""> </div>
+          <div class="avatar"> <img src="assets/images/avadies.jpg" alt=""> </div>
           <h1>Event organizer</h1>
           <p class="posi">DiesNatalis Informatika 2K16</p>
           <b>
@@ -124,29 +124,29 @@
       <ul>
         
         <!--  Item 1 -->
-         <li class="animate fadeInLeft" data-wow-delay="0.6s"> <img src="assets/images/look-img-5.jpg">
+         <li class="animate fadeInLeft" data-wow-delay="0.6s"> <img src="assets/images/kiri.jpg">
           
         </li>
         <!--  Item 2 -->
-        <li class="animate fadeInLeft" data-wow-delay="0.6s"> <img src="assets/images/look-img-2.jpg" alt="" >
+        <li class="animate fadeInLeft" data-wow-delay="0.6s"> <img src="assets/images/smp7.jpg" alt="" >
           <div class="inn-look"> <a href="#.">JUNIOR HIGH SCHOOL</a>
             <hr>2008-2011
             <span>SMP Negeri 7<br> Bandung</span> </div>
         </li>
         <!--  Item 3 -->
-        <li class="animate fadeInUp" data-wow-delay="0.8s"> <img src="assets/images/look-img-3.jpg" alt="" >
+        <li class="animate fadeInUp" data-wow-delay="0.8s"> <img src="assets/images/smunda.jpg" alt="" >
         <div class="inn-look"> <a href="#.">SENIOR HIGH SCHOOL</a>
         <hr>2011-2014
         <span>SMA Negeri 2 <br>Bandung</span> </div>
         </li>
         <!--  Item 4 -->
-        <li class="animate fadeInRight" data-wow-delay="0.4s"> <img src="assets/images/look-img-4.jpg" alt="" >
+        <li class="animate fadeInRight" data-wow-delay="0.4s"> <img src="assets/images/telu.jpg" alt="" >
         <div class="inn-look"> <a href="#.">BACHELOR <br>DEGREE</a>
         <hr>2014-2018
         <span>INFORMATICS<br>Telkom University</span> </div>
         </li>
         <!--  Item 5 -->
-        <li class="animate fadeInRight" data-wow-delay="0.6s"> <img src="assets/images/look-img-5.jpg" alt="" > 
+        <li class="animate fadeInRight" data-wow-delay="0.6s"> <img src="assets/images/kanan.jpg" alt="" > 
         </li>
       </ul>
     </section>
@@ -175,95 +175,95 @@
         <ul class="port-folio-row row col-3 items  animate fadeInUp" data-wow-delay="0.4s">
           
           <!-- Project 1 -->
-          <li class="item int plumb col-sm-3"> <img src="assets/images/construction/project-img-1.jpg" alt=""> 
+          <li class="item int col-sm-3"> <img src="assets/images/dribbble.jpg" alt=""> 
             <!-- Hover Info -->
             <div class="hover-port">
               <div class="position-center-center">
-                <h5>GREEN HOUSE</h5>
+                <h5>Splash Screen.</h5>
                 <hr>
-                <a href="assets/images/construction/project-img-1.jpg" data-lighter><i class="fa fa-search"></i></a> <a href="#."><i class="fa fa-link"></i></a> </div>
+                <a href="assets/images/dribbble.jpg" data-lighter><i class="fa fa-search"></i></a></div>
             </div>
           </li>
           
           <!-- Project 1 -->
-          <li class="item  plumb col-sm-3"> <img src="assets/images/construction/project-img-2.jpg" alt=""> 
+          <li class="item build col-sm-3"> <img src="assets/images/bdg.jpg" alt=""> 
             <!-- Hover Info -->
             <div class="hover-port">
               <div class="position-center-center">
-                <h5>GREEN HOUSE</h5>
+                <h5>Bandungku.</h5>
                 <hr>
-                <a href="assets/images/construction/project-img-2.jpg" data-lighter><i class="fa fa-search"></i></a> <a href="#."><i class="fa fa-link"></i></a> </div>
+                <a href="assets/images/bdg.jpg" data-lighter><i class="fa fa-search"></i></a></div>
             </div>
           </li>
           
           <!-- Project 1 -->
-          <li class="item int plumb col-sm-3"> <img src="assets/images/construction/project-img-3.jpg" alt=""> 
+          <li class="item int col-sm-3"> <img src="assets/images/signup.jpg" alt=""> 
             <!-- Hover Info -->
             <div class="hover-port">
               <div class="position-center-center">
-                <h5>GREEN HOUSE</h5>
+                <h5>SignUp Page.</h5>
                 <hr>
-                <a href="assets/images/construction/project-img-3.jpg" data-lighter><i class="fa fa-search"></i></a> <a href="#."><i class="fa fa-link"></i></a> </div>
+                <a href="assets/images/signup.jpg" data-lighter><i class="fa fa-search"></i></a> </div>
             </div>
           </li>
           
           <!-- Project 1 -->
-          <li class="item  build plumb col-sm-3"> <img src="assets/images/construction/project-img-4.jpg" alt=""> 
+          <li class="item  build col-sm-3"> <img src="assets/images/kuda.jpg" alt=""> 
             <!-- Hover Info -->
             <div class="hover-port">
               <div class="position-center-center">
-                <h5>GREEN HOUSE</h5>
+                <h5>Pagi itu di Yogyakarta.</h5>
                 <hr>
-                <a href="assets/images/construction/project-img-4.jpg" data-lighter><i class="fa fa-search"></i></a> <a href="#."><i class="fa fa-link"></i></a> </div>
+                <a href="assets/images/kuda.jpg" data-lighter><i class="fa fa-search"></i></a> </div>
             </div>
           </li>
           
           <!-- Project 1 -->
-          <li class="item int arch  col-sm-3"> <img src="assets/images/construction/project-img-5.jpg" alt=""> 
+          <li class="item int col-sm-3"> <img src="assets/images/inditkeun.jpg" alt=""> 
             <!-- Hover Info -->
             <div class="hover-port">
               <div class="position-center-center">
-                <h5>GREEN HOUSE</h5>
+                <h5>Inditkeun App.</h5>
                 <hr>
-                <a href="assets/images/construction/project-img-5.jpg" data-lighter><i class="fa fa-search"></i></a> <a href="#."><i class="fa fa-link"></i></a> </div>
+                <a href="assets/images/inditkeun.jpg" data-lighter><i class="fa fa-search"></i></a></div>
             </div>
           </li>
           
           <!-- Project 1 -->
-          <li class="item int arch build col-sm-3"> <img src="assets/images/construction/project-img-6.jpg" alt=""> 
+          <li class="item build col-sm-3"> <img src="assets/images/happy.jpg" alt=""> 
             <!-- Hover Info -->
             <div class="hover-port">
               <div class="position-center-center">
-                <h5>GREEN HOUSE</h5>
+                <h5>Happiness.</h5>
                 <hr>
-                <a href="assets/images/construction/project-img-6.jpg" data-lighter><i class="fa fa-search"></i></a> <a href="#."><i class="fa fa-link"></i></a> </div>
+                <a href="assets/images/happy.jpg" data-lighter><i class="fa fa-search"></i></a>  </div>
             </div>
           </li>
-          <li class="item int arch build col-sm-3"> <img src="assets/images/construction/project-img-6.jpg" alt=""> 
+          <li class="item int col-sm-3"> <img src="assets/images/card.jpg" alt=""> 
             <!-- Hover Info -->
             <div class="hover-port">
               <div class="position-center-center">
-                <h5>GREEN HOUSE</h5>
+                <h5>Credit Card Checkout Page.</h5>
                 <hr>
-                <a href="assets/images/construction/project-img-6.jpg" data-lighter><i class="fa fa-search"></i></a> <a href="#."><i class="fa fa-link"></i></a> </div>
+                <a href="assets/images/card.jpg" data-lighter><i class="fa fa-search"></i></a> </div>
             </div>
           </li>
-          <li class="item int arch build col-sm-3"> <img src="assets/images/construction/project-img-6.jpg" alt=""> 
+          <li class="item build col-sm-3"> <img src="assets/images/helicopter.jpg" alt=""> 
             <!-- Hover Info -->
             <div class="hover-port">
               <div class="position-center-center">
-                <h5>GREEN HOUSE</h5>
+                <h5>Mini Helicopter.</h5>
                 <hr>
-                <a href="assets/images/construction/project-img-6.jpg" data-lighter><i class="fa fa-search"></i></a> <a href="#."><i class="fa fa-link"></i></a> </div>
+                <a href="assets/images/helicopter.jpg" data-lighter><i class="fa fa-search"></i></a> </div>
             </div>
           </li>
-          <li class="item int arch build col-sm-3"> <img src="assets/images/construction/project-img-6.jpg" alt=""> 
+          <li class="item int col-sm-3"> <img src="assets/images/clooper.jpg" alt=""> 
             <!-- Hover Info -->
             <div class="hover-port">
               <div class="position-center-center">
-                <h5>GREEN HOUSE</h5>
+                <h5>Mini Cooper Club Web Design.</h5>
                 <hr>
-                <a href="assets/images/construction/project-img-6.jpg" data-lighter><i class="fa fa-search"></i></a> <a href="#."><i class="fa fa-link"></i></a> </div>
+                <a href="assets/images/clooper.jpg" data-lighter><i class="fa fa-search"></i></a> </div>
             </div>
           </li>
         </ul>
@@ -278,7 +278,7 @@
           <div class="tittle tittle-cont animate fadeInUp" data-wow-delay="0.4s">
             <h2>Let's Talk</h2>
             <hr>
-            <img class="margin-t-40" src="assets/images/sepatu.png" alt="">
+            <img class="margin-t-40" src="assets/images/mail.png" alt="">
             <p>Contact me at <b>ichanfadhil21@gmail.com</b> for project inquiries. I'll gladly work on your project as well!</p>
           </div>
           

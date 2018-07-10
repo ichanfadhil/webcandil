@@ -13,7 +13,7 @@
           <!-- MENU BUTTON RESPONSIVE -->
           <div class="menu-toggle"> <i class="fa fa-bars"> </i> </div>
           <ul class="ownmenu">
-		  <center><a href="facebook.com"><img src="assets/images/merula3.png"></center>
+		  <center><a href="facebook.com"><img src="assets/images/logo.png"></center>
           <li class="active"><a href=".#">HOME</a>
           </li>
 		  <li class=""><a href="#sec-7">ABOUT</a>

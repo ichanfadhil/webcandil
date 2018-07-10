@@ -69,7 +69,7 @@ h2 {
 	font-weight: bold;
 	font-family: 'Lato', serif;
 	color: blue;
-    text-shadow: 2px 2px #c27c21;
+    text-shadow: 2px 2px #249494;
 }
 h3 {
 	font-size: 30px;
@@ -97,7 +97,7 @@ h7 {
 h8 {
 	font-size: 14px;
 	font-style:;
-	color: #c27c21;
+	color: #249494;
 	font-family: 'Lato', serif;
 	line-height: 2em;
 }
@@ -190,14 +190,14 @@ section {
 	border-color: #272727;
 }
 .btn:hover {
-	background: #c27c21;
+	background: #249494;
 	color: #fff;
-	border-color: #c27c21;
+	border-color: #249494;
 }
 .btn-1 {
-	background: #c27c21;
+	background: #249494;
 	color: #fff;
-	border: 1px solid #c27c21;
+	border: 1px solid #249494;
 }
 .btn-1:hover {
 	background: none;
@@ -554,7 +554,7 @@ header nav .ownmenu li {
 	padding: 0 15px;
 }
 header nav li a:hover {
-	color: #c27c21;
+	color: #249494;
 }
 header .ownmenu ul.dropdown {
 	padding-bottom: 0px;
@@ -967,7 +967,11 @@ header .ownmenu .look-book .media-body a {
 	background-size: cover;
 }
 .home-6-style #sec-4 {
-	background: url(../images/bg/bg1.jpg) fixed no-repeat;
+	background: url(../images/bg/bg4.jpg) fixed no-repeat;
+	background-size: cover;
+}
+.home-6-style #sec-6 {
+	background: url(../images/bg/bg2.jpg) fixed no-repeat;
 	background-size: cover;
 }
 .home-6-style .content .huge-txt {
@@ -2027,7 +2031,7 @@ header .ownmenu .look-book .media-body a {
 	height: 100%;
 	width: 100%;
 	padding: 30px;
-	background: rgba(175,88,117,0.9);
+	background: #249494;
 	opacity: 0;
 	text-align: center;
 	-webkit-transition: all 0.4s ease-in-out;
@@ -2058,7 +2062,7 @@ header .ownmenu .look-book .media-body a {
 	margin: 0 5px;
 }
 .port-folio-row li .hover-port a:hover {
-	background: rgba(175,88,117,1);
+	background: #1c2833;
 	color: #fff;
 }
 .portfolio-defult h6 {
@@ -3709,7 +3713,7 @@ footer .flicker img {
 .tittle-cont hr {
 	width: 80px;
 	height: 16px;
-	background: #ffc000;
+	background: #249494;
 	-webkit-transform: skew(-40deg);
 	-moz-transform: skew(-40deg);
 	-o-transform: skew(-40deg);
@@ -4436,18 +4440,18 @@ footer .flicker img {
 	border: none;
 	margin: 0px;
 	background: none;
-	color: #af5875;
-	border-bottom: 2px solid #af5875;
+	color: #249494;
+	border-bottom: 2px solid #249494;
 }
 .portfolio .filter-style-2 a.active {
 	border: none;
-	border-bottom: 2px solid #af5875;
-	color: #af5875;
+	border-bottom: 2px solid #249494;
+	color: #249494;
 }
 .portfolio .filter-style-2 li a:hover {
 	border: none;
-	color: #af5875;
-	border-bottom: 2px solid #af5875;
+	color: #249494;
+	border-bottom: 2px solid #249494;
 }
 /*=======================================================
       TEAM
@@ -6015,12 +6019,12 @@ input:focus {
 	position: fixed;
 	bottom: 40px;
 	right: 40px;
-	color: #c27c21;
+	color: #249494;
 	border-radius: 4px;
 	font-size: 26px;
 	text-align: center;
 	line-height: 40px;
-	border:3px solid #c27c21;
+	border:3px solid #249494;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
 	overflow: hidden;
 	white-space: nowrap;
@@ -6049,8 +6053,8 @@ input:focus {
 	opacity: .5;
 }
 .no-touch .cd-top:hover {
-	background-color: #c27c21;
-	background-color: #c27c21;
+	background-color: #249494;
+	background-color: #249494;
 	opacity: 1;
 	color: #fff;
 }
